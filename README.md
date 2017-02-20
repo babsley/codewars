@@ -6,13 +6,13 @@ Codewars
   - https://www.codewars.com/kata/base-conversion/
 
   - Part I 
-     // 1. http://www.codewars.com/kata/opposite-number
-     2. http://www.codewars.com/kata/basic-mathematical-operations
-     3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
-     4. http://www.codewars.com/kata/transportation-on-vacation
-     5. http://www.codewars.com/kata/calculating-with-functions
-     6. http://www.codewars.com/kata/get-the-middle-character
-     7. http://www.codewars.com/kata/partition-on
+     
+    
+     
+   
+     
+     
+     
      8. http://www.codewars.com/kata/word-count
      9. http://www.codewars.com/kata/remove-first-and-last-character-part-two
      10. http://www.codewars.com/kata/implement-a-filter-function
@@ -44,3 +44,13 @@ Codewars
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
      - http://www.codewars.com/kata/functional-sql
      - http://www.codewars.com/kata/can-you-get-the-loop
+     
+ # Done
+  - Part 1
+    1. http://www.codewars.com/kata/opposite-number
+    2. http://www.codewars.com/kata/basic-mathematical-operations
+    3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
+    4. http://www.codewars.com/kata/transportation-on-vacation
+    5. http://www.codewars.com/kata/calculating-with-functions
+    6. http://www.codewars.com/kata/get-the-middle-character
+    7. http://www.codewars.com/kata/partition-on
