@@ -14,7 +14,7 @@ Codewars
      
      
      
-     9. http://www.codewars.com/kata/remove-first-and-last-character-part-two
+     
      10. http://www.codewars.com/kata/implement-a-filter-function
      11. http://www.codewars.com/kata/prefill-an-array
      12. http://www.codewars.com/kata/cross-product-of-vectors
@@ -55,3 +55,4 @@ Codewars
     6. http://www.codewars.com/kata/get-the-middle-character
     7. http://www.codewars.com/kata/partition-on
     8. http://www.codewars.com/kata/word-count
+    9. http://www.codewars.com/kata/remove-first-and-last-character-part-two
