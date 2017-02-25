@@ -16,7 +16,7 @@ Codewars
      6. http://www.codewars.com/kata/function-cache
     
      8. http://www.codewars.com/kata/function-composition-1
-     9. http://www.codewars.com/kata/stringing-me-along
+     
      10. http://www.codewars.com/kata/i-spy
   - Part III 
      1. http://www.codewars.com/kata/santaclausable-interface
@@ -54,3 +54,5 @@ Codewars
      5. http://www.codewars.com/kata/a-chain-adding-function
      
      7. http://www.codewars.com/kata/function-composition
+     
+     9. http://www.codewars.com/kata/stringing-me-along
