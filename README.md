@@ -12,7 +12,7 @@ Codewars
     
      4. http://www.codewars.com/kata/using-closures-to-share-class-state
      
-     6. http://www.codewars.com/kata/function-cache
+     
     
      8. http://www.codewars.com/kata/function-composition-1
      
@@ -53,7 +53,7 @@ Codewars
      3. http://www.codewars.com/kata/can-you-keep-a-secret
      
      5. http://www.codewars.com/kata/a-chain-adding-function
-     
+     6. http://www.codewars.com/kata/function-cache
      7. http://www.codewars.com/kata/function-composition
      
      9. http://www.codewars.com/kata/stringing-me-along
