@@ -19,7 +19,7 @@ Codewars
      
   - Part III 
      1. http://www.codewars.com/kata/santaclausable-interface
-     2. http://www.codewars.com/kata/new-with-apply
+     
      
      4. http://www.codewars.com/kata/array-helpers
      5. http://www.codewars.com/kata/replicate-new
@@ -59,5 +59,6 @@ Codewars
      9. http://www.codewars.com/kata/stringing-me-along
      10. http://www.codewars.com/kata/i-spy
   - Part III 
-  
+    
+     2. http://www.codewars.com/kata/new-with-apply
      3. http://www.codewars.com/kata/extract-nested-object-reference
