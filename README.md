@@ -10,7 +10,6 @@ Codewars
      
   - Part II 
     
-     3. http://www.codewars.com/kata/can-you-keep-a-secret
      4. http://www.codewars.com/kata/using-closures-to-share-class-state
      
      6. http://www.codewars.com/kata/function-cache
@@ -51,7 +50,7 @@ Codewars
   - Part II 
      1. http://www.codewars.com/kata/closures-and-scopes
      2. http://www.codewars.com/kata/a-function-within-a-function
-     
+     3. http://www.codewars.com/kata/can-you-keep-a-secret
      
      5. http://www.codewars.com/kata/a-chain-adding-function
      
