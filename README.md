@@ -5,7 +5,7 @@ Deadline         |  Coefficient
 Codewars 
   - https://www.codewars.com/kata/base-conversion/
   - Part III 
-     1. http://www.codewars.com/kata/santaclausable-interface
+    
      
      7. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
      8. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
@@ -42,7 +42,7 @@ Codewars
      9. http://www.codewars.com/kata/stringing-me-along
      10. http://www.codewars.com/kata/i-spy
   - Part III 
-    
+     1. http://www.codewars.com/kata/santaclausable-interface
      2. http://www.codewars.com/kata/new-with-apply
      3. http://www.codewars.com/kata/extract-nested-object-reference
      4. http://www.codewars.com/kata/array-helpers
