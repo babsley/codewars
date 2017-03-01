@@ -4,11 +4,6 @@ Deadline         |  Coefficient
 
 Codewars 
   - https://www.codewars.com/kata/base-conversion/
-  - Part III 
-    
-     
-     
-     8. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
   - __Optional__
      - http://www.codewars.com/kata/lazy-evaluation
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
@@ -49,3 +44,4 @@ Codewars
      5. http://www.codewars.com/kata/replicate-new
      6. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
      7. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
+     8. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
