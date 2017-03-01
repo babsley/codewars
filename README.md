@@ -4,26 +4,9 @@ Deadline         |  Coefficient
 
 Codewars 
   - https://www.codewars.com/kata/base-conversion/
-
-  - Part I 
-     
-     
-  - Part II 
-    
-     
-     
-     
-    
-     8. http://www.codewars.com/kata/function-composition-1
-     
-     
   - Part III 
      1. http://www.codewars.com/kata/santaclausable-interface
-     
-     
-     
      5. http://www.codewars.com/kata/replicate-new
-     
      7. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
      8. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
   - __Optional__
@@ -55,7 +38,7 @@ Codewars
      5. http://www.codewars.com/kata/a-chain-adding-function
      6. http://www.codewars.com/kata/function-cache
      7. http://www.codewars.com/kata/function-composition
-     
+     8. http://www.codewars.com/kata/function-composition-1
      9. http://www.codewars.com/kata/stringing-me-along
      10. http://www.codewars.com/kata/i-spy
   - Part III 
