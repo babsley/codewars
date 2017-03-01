@@ -6,7 +6,7 @@ Codewars
   - https://www.codewars.com/kata/base-conversion/
   - Part III 
      1. http://www.codewars.com/kata/santaclausable-interface
-     5. http://www.codewars.com/kata/replicate-new
+     
      7. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
      8. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
   - __Optional__
@@ -46,5 +46,5 @@ Codewars
      2. http://www.codewars.com/kata/new-with-apply
      3. http://www.codewars.com/kata/extract-nested-object-reference
      4. http://www.codewars.com/kata/array-helpers
-     
+     5. http://www.codewars.com/kata/replicate-new
      6. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
