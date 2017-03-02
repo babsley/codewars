@@ -3,7 +3,6 @@ Deadline         |  Coefficient
 26.11.2016 23:59  | 0.6
 
 Codewars 
-  - https://www.codewars.com/kata/base-conversion/
   - __Optional__
      - http://www.codewars.com/kata/lazy-evaluation
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
@@ -11,6 +10,8 @@ Codewars
      - http://www.codewars.com/kata/can-you-get-the-loop
      
  # Done
+ 
+  - https://www.codewars.com/kata/base-conversion/
   - Part 1
     1. http://www.codewars.com/kata/opposite-number
     2. http://www.codewars.com/kata/basic-mathematical-operations
